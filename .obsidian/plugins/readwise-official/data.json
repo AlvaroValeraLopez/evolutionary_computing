@@ -1,0 +1,22 @@
+{
+  "token": "0Y9SrU1aYi6KkLkzcgi3x4eSFR1DnYoNnhi2UgS1B5kizu3a6l",
+  "readwiseDir": "External Inputs/Readwise",
+  "frequency": "60",
+  "triggerOnLoad": false,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 17102274,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "45770752",
+    "45770750",
+    "45770748",
+    "45808441",
+    "45802849",
+    "45810885"
+  ],
+  "failedBooks": [],
+  "booksIDsMap": {},
+  "reimportShowConfirmation": true
+}
